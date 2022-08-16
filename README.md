@@ -24,3 +24,4 @@ Then, require the package and use it like so:
 MIT
 
 ##
+[![Node CI](https://github.com/rachxh/Jenkins-test/actions/workflows/main.yml/badge.svg)](https://github.com/rachxh/Jenkins-test/actions/workflows/main.yml)
