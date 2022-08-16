@@ -22,3 +22,5 @@ Then, require the package and use it like so:
 ## License
 
 MIT
+
+##
